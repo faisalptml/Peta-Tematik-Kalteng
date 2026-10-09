@@ -190,7 +190,7 @@
         <img src="{{ asset('img/Pisal.jpg') }}" class="card-img-top" alt="Paisal Patmal Jaelani">
         <div class="card-body">
           <p class="card-text text-center">
-            <b>Paisal Patmal Jaelani<br>0110121095</b>
+            <b>Paisal Patmal Jaelani</b>
           </p>
         </div>
       </div>
@@ -201,7 +201,7 @@
         <img src="{{ asset('img/Dims.jpg') }}" class="card-img-top" alt="Dimas Anggoro Harahap">
         <div class="card-body">
           <p class="card-text text-center">
-            <b>Dimas Anggoro Harahap<br>0110121087</b>
+            <b>Dimas Anggoro Harahap</b>
           </p>
         </div>
       </div>
@@ -212,7 +212,7 @@
         <img src="{{ asset('img/Reva.jpg') }}" class="card-img-top" alt="Reva Diaz">
         <div class="card-body">
           <p class="card-text text-center">
-            <b>Reva Diaz<br>0110121072</b>
+            <b>Reva Diaz</b>
           </p>
         </div>
       </div>
